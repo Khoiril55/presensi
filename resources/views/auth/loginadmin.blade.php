@@ -89,9 +89,6 @@
                                 </form>
                             </div>
                         </div>
-                        <div class="text-center text-muted mt-3">
-                            Don't have account yet? <a href="./sign-up.html" tabindex="-1">Sign up</a>
-                        </div>
                     </div>
                 </div>
                 <div class="col-lg d-none d-lg-block">
