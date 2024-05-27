@@ -31,7 +31,7 @@
             </div>
             <div class="form-group">
                 <select name="status" id="status" class="form-control">
-                    <option value="">Izin / Sakit</option>
+                    <option value="">Pilih Pengajuan</option>
                     <option value="i">Izin</option>
                     <option value="s">Sakit</option>
                 </select>
@@ -52,7 +52,8 @@
 
     $(document).ready(function() {
         $(".datepicker").datepicker({
-            format: "yyyy-mm-dd"
+            format: "yyyy-mm-dd",
+            minDate: new Date()
         });
 
         $("#tgl_izin").change(function(e) {

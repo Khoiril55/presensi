@@ -6,7 +6,7 @@
             <div class="col">
                 <!-- Page pre-title -->
                 <h2 class="page-title">
-                    Monitoring Presensi
+                    Data Izin/Sakit Karyawan
                 </h2>
             </div>
         </div>
