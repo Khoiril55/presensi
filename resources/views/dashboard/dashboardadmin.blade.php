@@ -36,7 +36,7 @@
                             </div>
                             <div class="col">
                                 <div class="font-weight-medium">
-                                    {{ $rekappresensi->jmlhadir != null ? $rekappresensi->jmlhadir : 0 }}
+                                    <!-- {{ $rekappresensi->jmlhadir != null ? $rekappresensi->jmlhadir : 0 }} -->
                                 </div>
                                 <div class="text-secondary">
                                     Karyawan Hadir
@@ -117,7 +117,7 @@
                             </div>
                             <div class="col">
                                 <div class="font-weight-medium">
-                                    {{ $rekappresensi->jmlterlambat != null ? $rekappresensi->jmlterlambat : 0 }}
+                                    <!-- {{ $rekappresensi->jmlterlambat != null ? $rekappresensi->jmlterlambat : 0 }} -->
                                 </div>
                                 <div class="text-secondary">
                                     Karyawan Telat
